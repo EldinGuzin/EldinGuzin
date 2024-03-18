@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📘 I'm an IT student
+- 🔭 I’m currently working on a University course web app project
+- 🌱 I’m currently learning JavaScript
+- 🏆 It's glory and honor the great man he said
 
 <!--
 **EldinGuzin/EldinGuzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
