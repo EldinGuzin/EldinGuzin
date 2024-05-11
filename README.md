@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📘 I'm an IT student
 - 🔭 I’m currently working on a University course web app project
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning php :( 
 - 🏆 It's glory and honor the great man he said
 
 <!--
