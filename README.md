@@ -1,4 +1,4 @@
-###👋 Hello, I'm Eldin
+### 👋 Hello, I'm Eldin
 - Rails developer
 - I enjoy building new things and contributing to open source(although still early in my contributing journey :D)
 
